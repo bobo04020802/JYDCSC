@@ -1,0 +1,8 @@
+{
+  "name": "JYDCSC",
+  "app_id": "c2667a1d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
